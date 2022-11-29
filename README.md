@@ -7,4 +7,5 @@ Centro Gestión de Mercados, Logística y Tecnologías de la Información
 # Desarrollo de la actividad
 
 <h5>desa</h5>
-![image](https://user-images.githubusercontent.com/108008266/204657743-03343dac-c1f4-46e7-ac83-827db4435aa6.png)
+
+![image](https://user-images.githubusercontent.com/108008266/204658340-3775ed08-6e04-49a0-9b6b-134e9a726056.png)
