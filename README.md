@@ -9,7 +9,8 @@
 Cargar los datos que se encuentran en “DATOS/COVID19/COVID19-JULIO2020.csv” en una base de datos MONGODB llamada “COVID”, en la
 colección llamada “CASOS”.
 
-![image](https://user-images.githubusercontent.com/108008266/204658340-3775ed08-6e04-49a0-9b6b-134e9a726056.png)
+![image](https://user-images.githubusercontent.com/108008266/204689110-f096828c-05e3-49ad-a46d-bfb1891e6d89.png)
+
 
 # importando datos
 
