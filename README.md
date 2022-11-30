@@ -16,7 +16,8 @@ colección llamada “CASOS”.
 
 ![image](https://user-images.githubusercontent.com/108008266/204658731-910255c0-ed11-4790-bd55-6c666824bcbf.png)
 
-![image](https://user-images.githubusercontent.com/108008266/204659366-77e3a7df-4d4a-4829-b27f-327642901e43.png)
+![image](https://user-images.githubusercontent.com/108008266/204689265-7c36ce23-4dfd-48ba-bd5c-efa0c11322d4.png)
+
 
 # Consultas
 
