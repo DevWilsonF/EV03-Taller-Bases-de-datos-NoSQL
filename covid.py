@@ -1,8 +1,8 @@
 from pymongo import MongoClient
 MONGO_URL='mongodb://localhost'
 cliente = MongoClient(MONGO_URL)
-base_de_datos = cliente['covid']
-coleccion = base_de_datos['casos']
+base_de_datos = cliente['COVID']
+coleccion = base_de_datos['CASOS']
 
 mensaje= """\n\n********Menu********
 1. Cuantos casos se registraron en Bogotá.
