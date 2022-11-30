@@ -19,16 +19,12 @@ colección llamada “CASOS”.
 
 # Consultas
 
-El desarrollo de las consultas se realizaron en un programa de python en el cual se instalo e importo la libreria
-de mongoDB con el comando pip install pymongo 
-se establecio la url  en la cual se va a conectar a las bases de datos tambien se instancia  la url en una variable la cual 
-se usara para poder indicarle la base de datos a la cual se esta accediendo y por ultimo  se instancia  en una variable la
-coleccion a la cual tendremos acceso y podremos realizar las consultas.
+El desarrollo de las consultas se realizaron en un programa de python en el cual se instaló e importo la librería de MongoDB con el comando pip install pymongo se estableció la url en la cual se va a conectar a las bases de datos también sé instancia la url en una variable la cual se usara para poder indicarle la base de datos a la cual se está accediendo y por último sé instancia en una variable la colección a la cual tendremos acceso y podremos realizar las consultas.
 
 ![image](https://user-images.githubusercontent.com/108008266/204684946-268214ea-c270-4f03-90fe-6626b47996b2.png)
 
-creamos un menu en el cual podemos acceder a las consultas para el desarrollo de la evidencia en el cual 
-por medio de un ciclo "while" podemos acceder a cada consulta  sin nesesidad de ejecutar varias veces el archivo
+Creamos un menú en el cual podemos acceder a las consultas para el desarrollo de la evidencia en el cual 
+por medio de un ciclo "while" podemos acceder a cada consulta sin necesidad de ejecutar varias veces el archivo
 
 ![image](https://user-images.githubusercontent.com/108008266/204685196-64fcfafc-a65f-4aff-8aa4-3c17b0b6974f.png)
 
